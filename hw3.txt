@@ -1,3 +1,5 @@
+3. Ќаписать метод, вычисл€ющий выражение a * (b + (c / d)) и возвращающий результат, где a, b, c, d Ц входные параметры этого метода;
+
 public class HomeWork_3 {
     public static void main(String[] args) {
         int x;
